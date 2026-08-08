@@ -1,0 +1,36 @@
+# PlatformIO build and dependency directories
+.pio/
+.piolibdeps/
+
+# Compiler outputs
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.lss
+*.sym
+*.d
+*.a
+*.eep
+*.srec
+
+# Generic build directories
+build/
+out/
+Debug/
+Release/
+cmake-build-*/
+
+# CLion / JetBrains project files
+.idea/
+
+# Editor and operating-system files
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+Desktop.ini
